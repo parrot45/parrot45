@@ -76,14 +76,14 @@ devise:     "Ship, break, learn, repeat."
 <br/>
 
 <!-- ====================== STATS ANIMÉES ====================== -->
-## <img src="https://media.giphy.com/media/W5evUz4 kF9hZN3HZ8/giphy.gif" width="30"> Mes statistiques GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Mes statistiques GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parrot45&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parrot45&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parrot45&hide_border=true&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrot45&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrot45&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -119,11 +119,12 @@ devise:     "Ship, break, learn, repeat."
 
 <div align="center">
 
-<a href="https://github.com/parrot45/hostiq">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=parrot45&repo=hostiq&hide_border=true&theme=tokyonight" />
+<!-- ⚠️ Mets ici le NOM EXACT de repos qui EXISTENT sur ton compte, sinon la carte est cassée -->
+<a href="https://github.com/parrot45/NOM_REPO_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=parrot45&repo=NOM_REPO_1&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </a>
-<a href="https://github.com/parrot45/AUTRE_REPO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=parrot45&repo=AUTRE_REPO&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/parrot45/NOM_REPO_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=parrot45&repo=NOM_REPO_2&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 </div>
