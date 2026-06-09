@@ -37,7 +37,7 @@ devise:     "Ship, break, learn, repeat."
 
 - 🏗️ &nbsp;Je construis **HostIQ**, un système de gestion immobilière (PMS)
 - 🔐 &nbsp;Je m'entraîne au **pentest / CTF** sur des environnements autorisés
-- ⚙️ &nbsp;J'aime automatiser  (n8n self-hosted, pipelines, agents IA)
+- ⚙️ &nbsp;J'aime automatiser ma vie (n8n self-hosted, pipelines, agents IA)
 - 🌱 &nbsp;En ce moment j'apprends : *(à compléter — ex: Rust, k8s, etc.)*
 - 💬 &nbsp;Demande-moi pour : automatisation, sécurité web, archi self-hosted
 
@@ -58,8 +58,10 @@ devise:     "Ship, break, learn, repeat."
 ### Frameworks & Outils
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
