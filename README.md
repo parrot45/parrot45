@@ -35,10 +35,9 @@ focus:      Automatisation, infra self-hosted, dev full-stack
 devise:     "Ship, break, learn, repeat."
 ```
 
-- 🏗️ &nbsp;Je construis **HostIQ**, un système de gestion immobilière (PMS)
 - 🔐 &nbsp;Je m'entraîne au **pentest / CTF** sur des environnements autorisés
-- ⚙️ &nbsp;J'aime automatiser ma vie (n8n self-hosted, pipelines, agents IA)
-- 🌱 &nbsp;En ce moment j'apprends : *(à compléter — ex: Rust, k8s, etc.)*
+- ⚙️ &nbsp;J'aime automatiser (n8n self-hosted, pipelines, agents IA)
+- 🌱 &nbsp;En ce moment j'apprends : APIs
 - 💬 &nbsp;Demande-moi pour : automatisation, sécurité web, archi self-hosted
 
 <br/>
