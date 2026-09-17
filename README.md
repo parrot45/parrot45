@@ -28,8 +28,8 @@
 
 ```yaml
 nom:        Yassine
-rôle:       Étudiant & Fondateur de HostIQ
-projet:     Property Management System (PMS) en cours de build
+rôle:       Étudiant
+projet:     Multi tenant system... 
 passions:   Cybersécurité, CTF, pentest (sur plateformes légales)
 focus:      Automatisation, infra self-hosted, dev full-stack
 devise:     "Ship, break, learn, repeat."
